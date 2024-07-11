@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammad-asad-official" alt="muhammad-asad-official" /></a> </p>
 
-- 🔭 I’m currently working on **YeotaSkin**
+- 🔭 I’m currently working on **DDMA-Sindh**
 
 - 👨‍💻 All of my projects are available at [https://www.fiverr.com/users/muhamadasad786/portfolio](https://www.fiverr.com/users/muhamadasad786/portfolio)
 
