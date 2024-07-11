@@ -1,9 +1,9 @@
+[![MasterHead](https://appdevelopmentcompanies.co/front_assets/img/blog/Python_(2).jpg)](https://xofttec.com)
 <h1 align="center">Hi 👋, I'm Muhammad Asad</h1>
 <h3 align="center">Flutter Developer</h3>
-
+<img align="right" alt="Coding" width="400" src="https://vectorified.com/images/app-developer-icon-18.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-asad-official&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-asad-official" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammad-asad-official" alt="muhammad-asad-official" /></a> </p>
 
 - 🔭 I’m currently working on **DDMA-Sindh**
 
