@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Asad</h1>
 <h3 align="center">Flutter Developer</h3>
 <img align="right" alt="Coding" width="400" src="[https://vectorified.com/images/app-developer-icon-18.png](https://iconscout.com/free-3d-illustration/flutter-5562357)">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-asad-official&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-asad-official" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=muhammad-asad-official&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-asad-official](https://w7.pngwing.com/pngs/168/443/png-transparent-flutter-logo-flutter-software-logo-social-media-logo-logo-technology-logo-3d-icon-thumbnail.png)" /> </p>
 
 
 - 🔭 I’m currently working on **DDMA-Sindh**
