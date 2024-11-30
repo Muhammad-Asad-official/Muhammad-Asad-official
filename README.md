@@ -1,9 +1,8 @@
 [![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQG1SrNfPGjVEg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732013184626?e=1738195200&v=beta&t=4DsuNmsbuRd7zO8RaAgNNo2X_talPQgeKGvB5vpdUo4)](https://xofttec.com)
 <h1 align="center">Hi 👋, I'm Muhammad Asad</h1>
 <h3 align="center">Flutter Developer</h3>
-<img align="right" alt="Coding" width="400" src="[https://vectorified.com/images/app-developer-icon-18.png](https://iconscout.com/free-3d-illustration/flutter-5562357)">
-<p align="left"> <img src="https://w7.pngwing.com/pngs/537/866/png-transparent-flutter-hd-logo.png" /> </p>
-
+<img align="right" alt="Coding" width="400" src="https://vectorified.com/images/app-developer-icon-18.png">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-asad-official&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-asad-official" /> </p>
 
 - 🔭 I’m currently working on **DDMA-Sindh**
 
