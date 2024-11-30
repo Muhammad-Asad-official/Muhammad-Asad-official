@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on **DDMA-Sindh**
 
-- 👨‍💻 All of my projects are available at [https://www.fiverr.com/users/muhamadasad786/portfolio](https://www.fiverr.com/users/muhamadasad786/portfolio)
-
 - 💬 Ask me about **Flutter, React Native, MySql, Laravel(PHP),,**
 
 - 📫 How to reach me **muhammadasadofficiall@gmail.com**
+  
+- 👨‍💻 All of my projects are available at [https://www.fiverr.com/users/muhamadasad786/portfolio](https://www.fiverr.com/users/muhamadasad786/portfolio)
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/muhammad-asad-oficial/](https://www.linkedin.com/in/muhammad-asad-oficial/)
 
