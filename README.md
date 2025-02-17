@@ -1,12 +1,12 @@
-[![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQG1SrNfPGjVEg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732013184626?e=1738195200&v=beta&t=4DsuNmsbuRd7zO8RaAgNNo2X_talPQgeKGvB5vpdUo4)](https://xofttec.com)
+[![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQG1SrNfPGjVEg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732013184626?e=1745452800&v=beta&t=IC8pv0F9QVwf0CsC3R1pYSvqwR2mgneCWikW-Z6CjsU)](https://xofttec.com)
 <h1 align="center">Hi 👋, I'm Muhammad Asad</h1>
 <h3 align="center">Flutter Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://img.icons8.com/color/1000/flutter.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-asad-official&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-asad-official" /> </p>
 
-- 🔭 I’m currently working on **DDMA-Sindh**
+- 🔭 I’m currently working on **Gloubal App**
 
-- 💬 Ask me about **Flutter, React Native, MySql, Laravel(PHP),,**
+- 💬 Ask me about **Flutter, React Native, MySql, Laravel(PHP)**
 
 - 📫 How to reach me **muhammadasadofficiall@gmail.com**
   
