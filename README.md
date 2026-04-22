@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Nutrition MIS**
 
-- 💬 Ask me about **C++, Java, Python, C#, Flutter, React Native, MySql, Laravel(PHP)**
+- 💬 Ask me about **C++, Java, Python, C#, Flutter, React Native, MySql, MSSQL, ASP.Net, Laravel(PHP)**
 
 - 📫 How to reach me **muhammadasadofficiall@gmail.com**
   
